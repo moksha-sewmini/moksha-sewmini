@@ -1,7 +1,7 @@
 # Moksha Sewmini 
 
 Undergraduate | Faculty of Science, University of Peradeniya  
-BSc (Hons) / BSc Degree Programme
+BSc (Hons) / Statistics and Operations Research Degree Programme
 
 ---
 
